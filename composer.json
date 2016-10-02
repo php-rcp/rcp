@@ -1,0 +1,7 @@
+{
+    "name": "rcp/rcp",
+    "type": "library",
+    "description": "PHP Rich Client Platform.",
+    "homepage": "https://github.com/php-rcp/rcp",
+    "license": "MIT"
+}
